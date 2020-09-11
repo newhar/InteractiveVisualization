@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LayoutRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RootPanel Orientation="Horizontal">
+    <LayoutAnchorablePaneGroup Orientation="Horizontal" DockWidth="282.4" FloatingWidth="210" FloatingHeight="603" FloatingLeft="2064" FloatingTop="467">
+      <LayoutAnchorablePane Id="cddd4727-c05b-435f-829d-d358fe67bdbf" FloatingWidth="210" FloatingHeight="603" FloatingLeft="2064" FloatingTop="467">
+        <LayoutAnchorable AutoHideWidth="100" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="MultiHierarchyView" IsSelected="True" ContentId="VRCAT.HierarchyModule.MultiHierarchyView, VRCAT.HierarchyModule" FloatingLeft="1064" FloatingTop="467" FloatingWidth="210" FloatingHeight="603" LastActivationTimeStamp="11/18/2018 23:11:14" />
+      </LayoutAnchorablePane>
+    </LayoutAnchorablePaneGroup>
+    <LayoutPanel Orientation="Vertical">
+      <LayoutPanel Orientation="Vertical">
+        <LayoutAnchorablePane DockHeight="454.6">
+          <LayoutAnchorable AutoHideHeight="100" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Scene" IsSelected="True" ContentId="VRCAT.RenderingModule.RenderView, VRCAT.RenderingModule" LastActivationTimeStamp="11/18/2018 23:11:15" />
+        </LayoutAnchorablePane>
+        <LayoutDocumentPaneGroup Orientation="Horizontal" DockHeight="0.0178446987000044*">
+          <LayoutDocumentPane />
+        </LayoutDocumentPaneGroup>
+      </LayoutPanel>
+      <LayoutAnchorablePaneGroup Orientation="Horizontal" DockWidth="Auto" DockHeight="243" FloatingWidth="993" FloatingHeight="667" FloatingLeft="721" FloatingTop="968">
+        <LayoutAnchorablePane DockHeight="243" FloatingWidth="993" FloatingHeight="667" FloatingLeft="721" FloatingTop="968">
+          <LayoutAnchorable AutoHideWidth="100" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Project" IsSelected="True" ContentId="VRCAT.AssetModule.AssetView, VRCAT.AssetModule" FloatingLeft="721" FloatingTop="968" FloatingWidth="993" FloatingHeight="667" LastActivationTimeStamp="11/18/2018 22:34:30" />
+          <LayoutAnchorable AutoHideHeight="100" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Console" ContentId="VRCAT.ConsoleModule.ConsoleView, VRCAT.ConsoleModule" FloatingLeft="2838" FloatingTop="635" FloatingWidth="1158" FloatingHeight="59" LastActivationTimeStamp="11/18/2018 22:31:36" />
+        </LayoutAnchorablePane>
+      </LayoutAnchorablePaneGroup>
+    </LayoutPanel>
+    <LayoutAnchorablePane DockWidth="327.8" FloatingWidth="665" FloatingHeight="79" FloatingLeft="1296" FloatingTop="635">
+      <LayoutAnchorable AutoHideWidth="100" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Inspector" IsSelected="True" ContentId="VRCAT.InspectorModule.InspectorView, VRCAT.InspectorModule" FloatingLeft="1296" FloatingTop="635" FloatingWidth="665" FloatingHeight="79" LastActivationTimeStamp="11/18/2018 23:00:17" />
+    </LayoutAnchorablePane>
+  </RootPanel>
+  <TopSide />
+  <RightSide />
+  <LeftSide />
+  <BottomSide />
+  <FloatingWindows />
+  <Hidden />
+</LayoutRoot>
