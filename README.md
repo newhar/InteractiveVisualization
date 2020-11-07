@@ -24,7 +24,4 @@ Utah Teapot 3D 이미지를 이용하여 여러 종류의 텍스쳐 맵핑과 �
 CUDA Programming
 
 ### 5_MiniProject_CUDA_ParticlaSystem
-
 지금까지 학습해온것을 바탕으로 정사각형의 공간에서 자잘한 도형들이 서로 충돌하며 움직임을 만들어내는 파티클 시스템을 구현합니다.
-<image width="500" height="400" src="https://user-images.githubusercontent.com/40593455/98447644-cd9f8b80-2169-11eb-86ce-0703c7e1326c.png">
-
